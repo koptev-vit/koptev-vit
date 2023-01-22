@@ -2,10 +2,11 @@
 <h3 align="center">Information security student from Russia 🇷🇺</h3>
 
 
-- 👋 Hi, I’m @koptev-vit
-- 👀 I’m interested in CTF, Programming
-- 🌱 I’m currently learning C#, C++, Python, VMware esxi, nsx, SQL, forensic.
-- 📫 How to reach me @vkoptev
+
+Skills:
+C#, C++, Python, VMware esxi, nsx, SQL, volatility, ansible, docker.
+
+- 📫tg: @kop73r
 
 <!---
 koptev-vit/koptev-vit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
